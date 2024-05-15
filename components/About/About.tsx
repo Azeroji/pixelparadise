@@ -6,7 +6,7 @@ type Props = {}
 const About = (props: Props) => {
   return (
     <div id='About' className='flex justify-center py-[7%]'>
-      <div className='w-[85%] md:w-[60%] font-FiraCode flex flex-col gap-y-[20px] text-GRAY'>
+      <div className='w-[85%] xl:w-[60%] font-FiraCode flex flex-col gap-y-[20px] text-GRAY'>
 
         <div className='flex items-center gap-x-[20px] md:w-[50%]'>
           <p className='font-Poppins font-semibold text-white text-[20px] md:text-[28px]'>About us</p>

@@ -9,7 +9,7 @@ type Props = {}
 const Contact = (props: Props) => {
   return (
     <div id='Contact' className='flex justify-center py-[7%]'>
-      <div className='w-[85%] md:w-[60%] font-FiraCode flex flex-col gap-y-[20px] text-GRAY'>
+      <div className='w-[85%] xl:w-[60%] font-FiraCode flex flex-col gap-y-[20px] text-GRAY'>
 
         <div className='flex items-center justify-center gap-x-[20px] md:w-[100%]'>
             <div className='border-t w-[50%] md:w-[30%] border-[#233554]'></div>
